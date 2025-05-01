@@ -1,0 +1,143 @@
+[
+    {
+      "codigo": "1",
+      "nombre_es": "Palomitas",
+      "nombre_en": "Popcorn",
+      "precio": "$ 23.00",
+      "imagen": "palomitas.jpg"
+    },
+    {
+      "codigo": "2",
+      "nombre_es": "Refresco",
+      "nombre_en": "Soda",
+      "precio": "$ 18.00",
+      "imagen": "refresco.jpeg"
+    },
+    {
+      "codigo": "3",
+      "nombre_es": "Nachos",
+      "nombre_en": "Nachos",
+      "precio": "$ 35.00",
+      "imagen": "nachos.jpeg"
+    },
+    {
+      "codigo": "4",
+      "nombre_es": "Hot Dog",
+      "nombre_en": "Hot Dog",
+      "precio": "$ 30.00",
+      "imagen": "hotdog.jpg"
+    },
+    {
+      "codigo": "5",
+      "nombre_es": "Pizza",
+      "nombre_en": "Pizza",
+      "precio": "$ 50.00",
+      "imagen": "pizza.jpg"
+    },
+    {
+      "codigo": "6",
+      "nombre_es": "Helado",
+      "nombre_en": "Ice Cream",
+      "precio": "$ 25.00",
+      "imagen": "helado.jpg"
+    },
+    {
+      "codigo": "7",
+      "nombre_es": "Chocolate",
+      "nombre_en": "Chocolate",
+      "precio": "$ 20.00",
+      "imagen": "chocolate.jpeg"
+    },
+    {
+      "codigo": "8",
+      "nombre_es": "Galletas",
+      "nombre_en": "Cookies",
+      "precio": "$ 15.00",
+      "imagen": "galletas.jpeg"
+    },
+    {
+      "codigo": "9",
+      "nombre_es": "Papas Fritas",
+      "nombre_en": "French Fries",
+      "precio": "$ 28.00",
+      "imagen": "papasfritas.jpeg"
+    },
+    {
+      "codigo": "10",
+      "nombre_es": "Dulces",
+      "nombre_en": "Candy",
+      "precio": "$ 10.00",
+      "imagen": "dulces.jpeg"
+    },
+    {
+      "codigo": "11",
+      "nombre_es": "Agua",
+      "nombre_en": "Water",
+      "precio": "$ 12.00",
+      "imagen": "agua.jpeg"
+    },
+    {
+      "codigo": "12",
+      "nombre_es": "Café",
+      "nombre_en": "Coffee",
+      "precio": "$ 22.00",
+      "imagen": "cafe.jpeg"
+    },
+    {
+      "codigo": "13",
+      "nombre_es": "Té Helado",
+      "nombre_en": "Iced Tea",
+      "precio": "$ 20.00",
+      "imagen": "te.png"
+    },
+    {
+      "codigo": "14",
+      "nombre_es": "Brownie",
+      "nombre_en": "Brownie",
+      "precio": "$ 26.00",
+      "imagen": "brownie.jpeg"
+    },
+    {
+      "codigo": "15",
+      "nombre_es": "Panini",
+      "nombre_en": "Panini",
+      "precio": "$ 40.00",
+      "imagen": "panini.jpeg"
+    },
+    {
+      "codigo": "16",
+      "nombre_es": "Ensalada",
+      "nombre_en": "Salad",
+      "precio": "$ 32.00",
+      "imagen": "ensalada.jpeg"
+    },
+    {
+      "codigo": "17",
+      "nombre_es": "Smoothie",
+      "nombre_en": "Smoothie",
+      "precio": "$ 27.00",
+      "imagen": "smoothie.jpeg"
+    },
+    {
+      "codigo": "18",
+      "nombre_es": "Yogur",
+      "nombre_en": "Yogurt",
+      "precio": "$ 18.00",
+      "imagen": "yogur.jpeg"
+    },
+    {
+      "codigo": "19",
+      "nombre_es": "Empanada",
+      "nombre_en": "Empanada",
+      "precio": "$ 24.00",
+      "imagen": "empanada.jpeg"
+    },
+    {
+      "codigo": "20",
+      "nombre_es": "Sandwich",
+      "nombre_en": "Sandwich",
+      "precio": "$ 38.00",
+      "imagen": "sandwich.jpeg"
+    }
+  ]
+  
